@@ -19,7 +19,7 @@
             <img class="d-block mx-auto mb-4" src="FOTOTESSERA.JPG" alt="" width="190" height="190">
             <h1 class="display-5 fw-bold text-body-emphasis">Alfredo Rucher</h1>
             <div class="col-xxl-6 mx-auto">
-              <p class="lead mb-4"> Studente del Master in Digital Marketing & Social Communication di RCS Academy Business School. Futuro esperto di marketing.</p>
+              <p class="lead mb-4"> Studente del Master in Digital Marketing & Social Communication di RCS Academy Business School.</p>
             </div>
           </div>
         
@@ -144,7 +144,7 @@
 
                 <div>
                   <h3 class="fs-2 text-body-emphasis">Cosa Cerco</h3>
-                  <p style="text-align:justify;">Sono in cerca di un’esperienza stimolante che operi all’interno della mia sfera di interessi (tecnologia, videogiochi, social/streaming e logistica). Metto a disposizione le mie competenze e sono pronto ad apprenderne di molte nuove affinché possa essere un rapporto sereno, duraturo e prolifico per entrambi le parti.</p>
+                  <p style="text-align:justify;">Sono in cerca di un’esperienza stimolante che operi all’interno della mia sfera di interessi (tecnologia, videogiochi, social/streaming e logistica). Metto a disposizione le mie competenze e sono pronto ad apprenderne di molte nuove affinché possa essere un rapporto sereno, duraturo e prolifico per entrambe le parti.</p>
                 </div>
 
               </div>
